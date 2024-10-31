@@ -1,4 +1,4 @@
-owner.login,full_name,created_at,stargazers_count,watchers_count,language,has_projects,has_wiki,license,license.key,license.name
+login,full_name,created_at,stargazers_count,watchers_count,language,has_projects,has_wiki,license,license_name,license.name
 midudev,midudev/landing-infojobs,2024-10-16T17:28:51Z,107,107,Astro,True,True,,,
 midudev,midudev/midu.dev,2018-11-20T21:29:52Z,451,451,HTML,False,False,,gpl-3.0,GNU General Public License v3.0
 midudev,midudev/midudev-issues,2024-10-16T09:58:41Z,11,11,,True,True,,,
